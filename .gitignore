@@ -1,0 +1,32 @@
+# OS/IDE
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Notebooks cache
+.ipynb_checkpoints/
+
+# Data / models / logs (keep huge files out of git)
+data/
+models/
+logs/
+
+# Trained artifacts & checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
+# Misc outputs
+outputs/

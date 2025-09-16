@@ -1,0 +1,6 @@
+Dir to save model state at intermediate steps (checkpoints) during training -- 
+
+checkpoint-18000: Intermediate saved model at step 18000.
+checkpoint-18500: Latest checkpoint, just before training finished. 
+
+Download and unzip the gpt2-finetuned zip-file under in this dir (optional). 
